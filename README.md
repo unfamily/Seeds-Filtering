@@ -1,6 +1,6 @@
 # Seeds Filtering
 
-##Support is provided only upon request.
+## Support is provided only upon request.
 
 | Version | Support Status |
 |--------|---------------|
