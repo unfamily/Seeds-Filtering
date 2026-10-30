@@ -39,3 +39,4 @@ body:
       placeholder: Describe what happened, or what feature you would like to see...
     validations:
       required: true
+
